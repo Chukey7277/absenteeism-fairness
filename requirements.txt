@@ -1,0 +1,13 @@
+
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+matplotlib==3.8.4
+seaborn==0.13.2
+jupyterlab==4.2.2
+ipykernel==6.29.5
+ipywidgets==8.1.2
+
+# Excel engines
+xlrd==1.2.0      # needed for .xls
+openpyxl==3.1.5  # good to have for .xlsx
